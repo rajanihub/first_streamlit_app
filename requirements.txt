@@ -1,2 +1,3 @@
 # requirements.txt
 snowflake-connector-phyton
+streamlit==1.25.0
