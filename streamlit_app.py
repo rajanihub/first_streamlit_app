@@ -75,7 +75,7 @@ if streamlit.button('Add a fruit to the List'):
 #my_cur = my_cnx.cursor()
 #my_cur.execute("SELECT * from fruit_load_list")
 
-#streamlit.header("The fruit load list contains:")
+#streamlit.header("View Our Fruit List - Add Your Favorites!")
 
 
 #allow the end user to add a fruit to the list
